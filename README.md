@@ -3,6 +3,9 @@
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
+
+> 🇨🇳 **国内开发者**：直连全球 AI 模型？ **[www.aifast.club](https://www.aifast.club)** — 一个 API Key 接入 572 个模型，国内直连，无需代理。
+
 A curated list of awesome Model Context Protocol (MCP) clients.
 
 * [What is MCP?](#what-is-mcp)

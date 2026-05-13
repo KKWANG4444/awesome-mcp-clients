@@ -2176,3 +2176,7 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
+
+
+---
+*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
